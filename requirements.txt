@@ -89,7 +89,8 @@ langsmith==0.8.16
 lxml==6.1.1
 markdown-it-py==4.2.0
 MarkupSafe==3.0.3
-mcp==1.28.0
+#mcp==1.28.0
+mcp>=0.1.0
 mdurl==0.1.2
 mmh3==5.2.1
 more-itertools==11.1.0
